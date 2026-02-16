@@ -1,14 +1,17 @@
-# ORVO AI 🔮
+# ORVO AI
 
-**AI-powered website monitoring. Know before it breaks.**
+**Predictive website monitoring. Predict instability before it becomes downtime.**
 
-We predict downtime before it happens using our 88 AI engine.
+We forecast stability using the 88 Engine — powered by statistical anomaly detection.
 
 ### Features
-- 🔮 **88 AI** - Predict downtime 5min to 1hr ahead
-- 🔒 **SSL Monitoring** - Certificate expiry tracking & alerts
-- ⚡ **Instant Alerts** - Email, Webhooks
-- 📊 **Status Pages** - Public status page for your users
+
+* **88 Engine** — Stability Risk Score (0-100) with explainability
+* **SSL Monitoring** — Certificate expiry tracking & alerts
+* **Real-time Alerts** — Email, Webhooks
+* **Status Pages** — Public status page for your users
+* **Pro & Business Plans** — Advanced predictions & team features
 
 ### Links
-🌐 [orvoai.app](https://orvoai.app) • 🐦 [@orvoai](https://twitter.com/orvoai) • 📧 support@orvoai.app
+
+[orvoai.app](https://orvoai.app) | [support@orvoai.app](mailto:support@orvoai.app)
